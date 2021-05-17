@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crypthor</string>
+    <string name="lock_item">Crypter</string>
+    <string name="home_item">Accueil</string>
+    <string name="unlock_item">Décrypter</string>
+
+</resources>

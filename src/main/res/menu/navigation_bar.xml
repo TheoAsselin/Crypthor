@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_page"
+        android:title="@string/home_item"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/lock_page"
+        android:title="@string/lock_item"
+        android:icon="@drawable/ic_cryptage"/>
+
+    <item
+        android:id="@+id/unlock_page"
+        android:title="@string/unlock_item"
+        android:icon="@drawable/ic_decryptage"/>
+
+</menu>
